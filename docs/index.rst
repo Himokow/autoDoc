@@ -10,7 +10,7 @@ Welcome to autoDocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-Welcome to autoDoc Doc, doc' !  (marche stp)
+Welcome to autoDoc Doc, doc' !  (marche stp2)
 
 Indices and tables
 ==================
