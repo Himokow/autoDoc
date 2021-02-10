@@ -43,6 +43,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
+# theme : pip3 install git+https://github.com/bashtage/sphinx-material.git
 #
 html_theme = 'sphinx_material'
 
