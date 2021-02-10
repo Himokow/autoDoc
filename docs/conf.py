@@ -58,7 +58,7 @@ html_theme_options = {
 
     # Specify a base_url used to generate sitemap.xml. If not
     # specified, then no sitemap will be built.
-    'base_url': 'https://project.github.io/project',
+    'base_url': 'https://himokow.github.io/autoDoc/',
 
     # Set the color and the accent color
     'color_primary': 'blue',
@@ -74,7 +74,11 @@ html_theme_options = {
     'globaltoc_collapse': False,
     # If True, show hidden TOC entries
     'globaltoc_includehidden': False,
+    "html_minify": True,
+    "css_minify": True,
 }
+
+​​​​​
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
