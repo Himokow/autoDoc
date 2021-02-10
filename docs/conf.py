@@ -43,7 +43,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-# theme : pip3 install git+https://github.com/bashtage/sphinx-material.git
 #
 html_theme = 'sphinx_material'
 
@@ -74,11 +73,7 @@ html_theme_options = {
     'globaltoc_collapse': False,
     # If True, show hidden TOC entries
     'globaltoc_includehidden': False,
-    'html_minify': True,
-    'css_minify': True,
 }
-
-​​​​​
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
