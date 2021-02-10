@@ -74,8 +74,8 @@ html_theme_options = {
     'globaltoc_collapse': False,
     # If True, show hidden TOC entries
     'globaltoc_includehidden': False,
-    "html_minify": True,
-    "css_minify": True,
+    'html_minify': True,
+    'css_minify': True,
 }
 
 ​​​​​
