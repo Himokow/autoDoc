@@ -1,11 +1,11 @@
-# FAQ
+# Q&A
 
-## Les questions les plus fréquentes
+## Most frequently asked question
 
-> Je suis une question ?
+> i'm a question ?
 
-Et moi je suis une réponse!
+And i'm your answer !
 
-> Et moi aussi je suis une question !?
+> But i'm a question too !?
 
-Et c'est moi ta réponse!
+Yes, that's why i'm your answer !
