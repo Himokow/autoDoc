@@ -1,18 +1,28 @@
-Welcome to autoDocs's documentation!
-====================================
+Welcome to AutoDoc Python Project's documentation!
+==================================================
 
 
 .. tip:: 
     .. include:: ../README.md 
 
 
-Table Of Content:
-=================
 .. toctree::
-    :maxdepth: 2
+    :caption: Basic Use
+    :maxdepth: 1
     
     tutorial
+
+
+.. toctree::
+    :caption: Avanced use
+    :maxdepth: 1
+
     guide
     reference
+
+.. toctree::
+    :caption: Q&A / Changes / License
+    :maxdepth: 1
+
     faq
     license
