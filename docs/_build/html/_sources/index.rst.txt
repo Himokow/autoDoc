@@ -8,11 +8,18 @@ Table Of Content:
     
     faq
     guide
+    tutorial
     license
+
+README.md:
+==========
+.. raw:: Readme
+    .. include:: ../README.md 
 
 
 A bit of code
 +++++++++++++
+
 .. automodule:: my_project.main
     :members:
 

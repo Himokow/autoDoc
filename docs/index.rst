@@ -11,6 +11,11 @@ Table Of Content:
     tutorial
     license
 
+README.md:
+==========
+.. tip:: 
+    .. include:: ../README.md 
+
 
 A bit of code
 +++++++++++++
