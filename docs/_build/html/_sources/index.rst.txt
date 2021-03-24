@@ -1,11 +1,22 @@
 Welcome to autoDocs's documentation!
 ====================================
+
+Table Of Content:
+=================
+.. toctree::
+    :maxdepth: 2
+    
+    faq
+    guide
+    license
+
+
+A bit of code
++++++++++++++
 .. automodule:: my_project.main
     :members:
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+
 
 Welcome to autoDoc Doc, doc' !  (marche stp2)eazeazeaze
 
