@@ -1,35 +1,18 @@
 Welcome to autoDocs's documentation!
 ====================================
 
+
+.. tip:: 
+    .. include:: ../README.md 
+
+
 Table Of Content:
 =================
 .. toctree::
     :maxdepth: 2
     
-    faq
-    guide
     tutorial
+    guide
+    reference
+    faq
     license
-
-README.md:
-==========
-.. raw:: Readme
-    .. include:: ../README.md 
-
-
-A bit of code
-+++++++++++++
-
-.. automodule:: my_project.main
-    :members:
-
-
-
-Welcome to autoDoc Doc, doc' !  (marche stp2)eazeazeaze
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

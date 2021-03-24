@@ -1,4 +1,10 @@
 Q&A 
 ===
 
-Here is the Q&A page.
+
+Questions Fréquements posées
+Simply run::
+
+        crawler <url>
+
+to crawl a webpage.
