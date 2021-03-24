@@ -8,11 +8,13 @@ Table Of Content:
     
     faq
     guide
+    tutorial
     license
 
 
 A bit of code
 +++++++++++++
+
 .. automodule:: my_project.main
     :members:
 
