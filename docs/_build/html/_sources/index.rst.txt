@@ -25,4 +25,5 @@ Welcome to AutoDoc Python Project's documentation!
     :maxdepth: 1
 
     faq
+    changelog
     license
