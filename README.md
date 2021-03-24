@@ -1,13 +1,13 @@
-**Au menu tout ce dont vous pouvez rêver**
+**Au menu: tout ce dont vous pouvez rêver**
 
-* Une welcome page inculant ce readme.md
+* Une welcome page inculant ce README.md
 * Un menu de navigation sur la gauche
 * Un tutorial
 * Un guide
-* Des références auto-générés avec sphinx
+* Des références auto-générées avec sphinx
 * Une FAQ
 
-**Nôtre groupe de rêve :**
+**Notre groupe de rêve :**
 
 * Alexandre Prévot
 * Francois Desprez
