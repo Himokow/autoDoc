@@ -1,5 +1,5 @@
-Welcome to autoDocs's documentation!
-====================================
+Welcome to AutoDoc Python Project's documentation!
+==================================================
 
 
 .. tip:: 
