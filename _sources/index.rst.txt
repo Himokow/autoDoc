@@ -1,30 +1,28 @@
-Welcome to autoDocs's documentation!
-====================================
+Welcome to AutoDoc Python Project's documentation!
+==================================================
 
-Table Of Content:
-=================
+
+.. tip:: 
+    .. include:: ../README.md 
+
+
 .. toctree::
-    :maxdepth: 2
+    :caption: Basic Use
+    :maxdepth: 1
     
-    faq
-    guide
     tutorial
+
+
+.. toctree::
+    :caption: Avanced use
+    :maxdepth: 1
+
+    guide
+    reference
+
+.. toctree::
+    :caption: Q&A / Changes / License
+    :maxdepth: 1
+
+    faq
     license
-
-
-A bit of code
-+++++++++++++
-
-.. automodule:: my_project.main
-    :members:
-
-
-
-Welcome to autoDoc Doc, doc' !  (marche stp2)eazeazeaze
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
